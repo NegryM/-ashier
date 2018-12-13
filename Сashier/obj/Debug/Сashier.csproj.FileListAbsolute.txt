@@ -1,0 +1,10 @@
+c:\users\1mbank\documents\visual studio 2015\Projects\Сashier\Сashier\bin\Debug\Сashier.exe.config
+c:\users\1mbank\documents\visual studio 2015\Projects\Сashier\Сashier\bin\Debug\Сashier.exe
+c:\users\1mbank\documents\visual studio 2015\Projects\Сashier\Сashier\bin\Debug\Сashier.pdb
+c:\users\1mbank\documents\visual studio 2015\Projects\Сashier\Сashier\obj\Debug\Сashier.csprojResolveAssemblyReference.cache
+c:\users\1mbank\documents\visual studio 2015\Projects\Сashier\Сashier\obj\Debug\Сashier.Form1.resources
+c:\users\1mbank\documents\visual studio 2015\Projects\Сashier\Сashier\obj\Debug\Сashier.Properties.Resources.resources
+c:\users\1mbank\documents\visual studio 2015\Projects\Сashier\Сashier\obj\Debug\Сashier.csproj.GenerateResource.Cache
+c:\users\1mbank\documents\visual studio 2015\Projects\Сashier\Сashier\obj\Debug\Сashier.exe
+c:\users\1mbank\documents\visual studio 2015\Projects\Сashier\Сashier\obj\Debug\Сashier.pdb
+c:\users\1mbank\documents\visual studio 2015\Projects\Сashier\Сashier\obj\Debug\Сashier.Till.resources
